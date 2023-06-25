@@ -13,11 +13,13 @@ function Projects() {
       title: "Plant Commercial Website",
       description: "Javascript Cart Develop",
       imgUrl: projImg1,
+      URL: "https://iriswang0916.github.io/plants/",
     },
     {
       title: "Anime Website Design",
       description: "CSS & HTML",
       imgUrl: projImg2,
+      URL: "https://iriswang0916.github.io/animeweb/",
     },
     {
       title: "Graphic Icon Design",
